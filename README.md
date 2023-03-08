@@ -1,3 +1,6 @@
+
+Bu repo [patika.dev](https://www.patika.dev/tr) eğitimlerinde Veri Bilimine Giriş dersi için hazırlanmış olan projeyi içermektedir. 
+
 # SAĞLIK ALANINDA PYTHON'UN KULLANIMI
 
 Python'un sağlık alanında birçok farklı kullanım alanı bulunmaktadır. İşte Python'un sağlık alanındaki kullanımına ilişkin bazı örnekler:
